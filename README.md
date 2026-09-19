@@ -1,20 +1,106 @@
-### Hi there 👋
+<div align="center">
 
-# 💫 About Me:
-🌱 I’m currently building apps with Flutter.<br>🌱 I’m currently learning more about MERN Stack.<br>🌱 I’m currently learning more about VR.<br>💬 Ask me about Flutter or any tech related stuff.<br>⚡ Fun fact: I spend almost all day coding.
+<img src="assets/banner.png" alt="" width="100%" />
 
+# Deepak Yadav
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-yadav-4418a666/) 
+**Senior Flutter Developer · 5+ years shipping mobile & full-stack products**
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=csedeepakyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=csedeepakyadav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=csedeepakyadav&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/deepak-yadav-4418a666/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:deepak.r625@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=csedeepakyadav&style=for-the-badge&color=6f5cf2&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B7CF6&center=true&vCenter=true&width=620&lines=Flutter+apps+for+phone%2C+tablet+%26+TV;Node%2FExpress+APIs+with+MongoDB+%26+Redis;React+admin+panels+and+dashboards;AI+features+that+ship%2C+not+demos" alt="" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=csedeepakyadav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ What I actually do
+
+I build the whole product, not one slice of it — the Flutter app, the API behind it, the admin
+panel the client logs into, and the landing page that sells it. Most of my work lives in private
+client repos; the public ones below are the parts I can share.
+
+```text
+Mobile      Flutter · Dart · Android TV / Fire TV leanback · iOS · Kotlin · Swift
+Frontend    React · Vite · Next.js · TypeScript · Tailwind · Framer Motion
+Backend     Node.js · Express · REST · Socket.IO · PHP · Laravel
+Data        MongoDB · MySQL · Redis · SQLite · Firebase
+AI          Google Gemini · structured output · prompt guardrails
+Ops         Docker · Nginx · GCP · DigitalOcean · Cloudflare · GitHub Actions
+```
+
+---
+
+## 🚀 Currently building in the open
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📺 [OpenTV](https://github.com/csedeepakyadav/OpenTV)
+
+Free, open-source **IPTV player** — one Flutter codebase that becomes a phone app *and* a
+10-foot Android TV / Fire TV leanback UI with D-pad focus. Ships with a Node/Express +
+MongoDB backend, a React admin panel, an M3U parser with 6-hour auto-sync, and a sample
+dataset of 293 channels. No sign-in required.
+
+`Flutter` `Dart` `Node.js` `MongoDB` `React` `HLS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [ImpactLens](https://github.com/csedeepakyadav/impactlens)
+
+**AI media impact analysis.** Upload a short-seller report, investigative piece or regulatory
+notice → a guarded Gemini pipeline scores the fallout across six dimensions, extracts
+page-cited claims, projects a timeline and finds historical analogs → animated dashboard plus
+a letterhead PDF. Runs in demo mode with no API key.
+
+`TypeScript` `React 19` `Gemini` `Express` `MongoDB` `Puppeteer`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Earlier work people still use
+
+| Project | What it is | ⭐ |
+|---------|------------|----|
+| [Attendance Management System](https://github.com/csedeepakyadav/Employee-or-Student-Attendance-Management-System-in-PHP-and-MYSQL) | Full attendance CMS in PHP + MySQL, admin and user roles | 12 |
+| [BLoC Pattern News App](https://github.com/csedeepakyadav/bloc_pattern_architecture_news_app) | Flutter news app built as a clean BLoC-architecture reference | 6 |
+| [REST API with PHP & MySQL](https://github.com/csedeepakyadav/REST-API-with-PHP-and-MySQL) | Minimal, readable REST API starter | 1 |
+| [Android × RapidAPI Demo](https://github.com/csedeepakyadav/Android-App-with-RapidAPI---Demo-) | Consuming RapidAPI endpoints with Volley, no unirest | 1 |
+
+---
+
+## 📊 By the numbers
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csedeepakyadav&theme=tokyonight" alt="Profile summary" width="88%" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=csedeepakyadav&theme=tokyonight" alt="Repos per language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csedeepakyadav&theme=tokyonight" alt="Most committed languages" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=csedeepakyadav&theme=tokyonight" alt="Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csedeepakyadav&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=csedeepakyadav&hide_border=true&theme=tokyonight&ring=8B7CF6&fire=8B7CF6&currStreakLabel=8B7CF6" alt="Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to interesting work
+
+Flutter apps · TV apps · Node APIs · AI features that have to survive real users
+
+**[LinkedIn](https://www.linkedin.com/in/deepak-yadav-4418a666/) · [deepak.r625@gmail.com](mailto:deepak.r625@gmail.com)** · Gurugram, India
+
+</div>
