@@ -10,7 +10,7 @@
 <a href="mailto:deepak.r625@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=csedeepakyadav&style=for-the-badge&color=6f5cf2&label=PROFILE+VIEWS" alt="Profile views" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B7CF6&center=true&vCenter=true&width=620&lines=Flutter+apps+for+phone%2C+tablet+%26+TV;Node%2FExpress+APIs+with+MongoDB+%26+Redis;React+admin+panels+and+dashboards;AI+features+that+ship%2C+not+demos" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B7CF6&center=true&vCenter=true&width=620&lines=Flutter+%2B+native+iOS+%26+Android+apps;Node%2FExpress+and+FastAPI+backends;Local+LLM+%2B+RAG+pipelines+that+run+offline;Computer+vision%3A+detection%2C+tracking%2C+calibration;AI+features+that+ship%2C+not+demos" alt="" />
 
 </div>
 
@@ -23,12 +23,17 @@ panel the client logs into, and the landing page that sells it. Most of my work 
 client repos; the public ones below are the parts I can share.
 
 ```text
-Mobile      Flutter · Dart · Android TV / Fire TV leanback · iOS · Kotlin · Swift
-Frontend    React · Vite · Next.js · TypeScript · Tailwind · Framer Motion
-Backend     Node.js · Express · REST · Socket.IO · PHP · Laravel
-Data        MongoDB · MySQL · Redis · SQLite · Firebase
-AI          Google Gemini · structured output · prompt guardrails
-Ops         Docker · Nginx · GCP · DigitalOcean · Cloudflare · GitHub Actions
+Mobile      Flutter · Dart · native iOS (Swift) · native Android (Kotlin / Java)
+            Android TV & Fire TV leanback
+Frontend    React · Next.js · Vite · TypeScript · Tailwind · Framer Motion
+Backend     Node.js · Express · Socket.IO · Python · FastAPI · Celery · PHP · Laravel
+AI / LLM    Google Gemini · Ollama & local open models · RAG with LlamaIndex
+            Qdrant · sentence-transformers · hybrid BM25 + cross-encoder rerank
+            QLoRA / Axolotl fine-tuning · structured output · prompt guardrails
+Vision      YOLOX / YOLOv8 detection · multi-object tracking · camera calibration
+            OpenCV · Surya OCR
+Data        MongoDB · MySQL · Redis · SQLite · Qdrant · Firebase
+Ops         Docker · Nginx · GCP · DigitalOcean · Cloudflare · GitHub Actions · Prometheus
 ```
 
 ---
